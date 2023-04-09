@@ -1,7 +1,7 @@
-# F1 Analytic Platform (Badger Stats)
+# F1 Analytic Platform (Badger Stats 🦡)
 
 We do not have a permanent name for the project but for now it is called,
-_Badger Stats_ after my favourite F1 driver - Daniel Ricciardo.
+_Badger Stats 🦡_ after my favourite F1 driver - Daniel Ricciardo.
 
 ## Scope
 
